@@ -56,7 +56,19 @@ section.luffy {
     box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin-top: 30px;
     margin-bottom: 30px;
+    transition-duration: 1s;
+}
 
+:hover.luffy{
+    background-attachment: fixed;
+    background-image: url(luffy-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 section.dracule {
@@ -68,6 +80,19 @@ section.dracule {
     border-radius: 20px;
     box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.dracule{
+    background-attachment: fixed;
+    background-image: url(mihawk-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 section.ruivo {
@@ -79,6 +104,19 @@ section.ruivo {
     border-radius: 20px;
     box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.ruivo{
+    background-attachment: fixed;
+    background-image: url(shanks-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 section.Teach {
@@ -90,6 +128,19 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.Teach{
+    background-attachment: fixed;
+    background-image: url(bnegra-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .garp {
@@ -101,6 +152,19 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.garp{
+    background-attachment: fixed;
+    background-image: url(garp-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .eduard {
@@ -112,6 +176,19 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.eduard{
+    background-attachment: fixed;
+    background-image: url(bbranca-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
@@ -124,6 +201,20 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.roger{
+    background-attachment: fixed;
+    background-image: url(roger-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
+
 }
 
 .xebec {
@@ -135,6 +226,19 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.xebec{
+    background-attachment: fixed;
+    background-image: url(xebec-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .imu {
@@ -146,6 +250,19 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.imu{
+    background-attachment: fixed;
+    background-image: url(imu-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .joy {
@@ -157,6 +274,19 @@ section.Teach {
     border-radius: 20px;
     box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
     margin: 30px;
+    transition-duration: 1s;
+}
+
+:hover.joy{
+    background-attachment: fixed;
+    background-image: url(joy-c.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px  25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
