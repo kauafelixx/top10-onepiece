@@ -1,0 +1,201 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+:root {
+    --fonte1: "Passion One", serif;
+    --fonte2: "Jost", sans-serif;
+    --fonte3: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html,
+body {
+    background-color: rgb(152, 152, 152);
+
+}
+
+header {
+background-color: black;
+color: white;
+ text-align: center;
+
+}
+
+header>h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: var(--fonte2);
+    font-variant: small-caps;
+    font-size: 3em;
+}
+
+h3 {
+    font-family: var(--fonte1);
+    font-size: 1.2em;
+text-align: center;
+   margin-top: 30px;
+   margin-bottom: 5px;
+   letter-spacing: 1px;
+}
+
+
+section.luffy {
+    background-attachment: fixed;
+    background-image: url(luffy.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+section.dracule {
+    background-attachment: fixed;
+    background-image: url(mihawk.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+section.ruivo {
+    background-attachment: fixed;
+    background-image: url(shanks.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+section.Teach {
+    background-attachment: fixed;
+    background-image: url(teach.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+.garp {
+    background-attachment: fixed;
+    background-image: url(garp.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+.eduard {
+    background-attachment: fixed;
+    background-image: url(eduard.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+
+.roger {
+    background-attachment: fixed;
+    background-image: url(roger.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+.xebec {
+    background-attachment: fixed;
+    background-image: url(xebec.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+.imu {
+    background-attachment: fixed;
+    background-image: url(imu.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+.joy {
+    background-attachment: fixed;
+    background-image: url(joyboy.jpeg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: inset 20px 20px 25px rgba(0, 0, 0, 0.699);
+    margin: 30px;
+}
+
+
+
+
+section {
+    padding: 50px;
+    margin: 20px;
+
+}
+
+p {
+    font-family: var(--fonte2);
+    font-size: 1.2em;
+    text-align: justify;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.758);
+    padding: 10px;
+    border-radius: 10px;
+    text-shadow: 1px 1px 20px black;
+    line-height: 2em;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+}
+
+footer{
+    font-family: var(--fonte2);
+    text-align: center;
+    background-color: black;
+    color: white;
+   padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: blueviolet;
+}
